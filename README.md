@@ -53,8 +53,7 @@ The system's architecture is designed to be flexible and modular, allowing for e
 
 | Library | Description | Usage |
 |---------|-------------|-------|
-| [lib-name1](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
-| [lib-name2](link-to-lib) | official description of the lib | Used for accesing the peripherals of the microcontroller  |
+| [Ucglib](https://github.com/olikraus/ucglib) | Color graphics library for embedded systems with focus on Arduino Environment | Used for the LCD Display |
 
 ## Log
 
